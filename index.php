@@ -16,7 +16,7 @@
 			<h2> Login Form </h2> 
 				
 			<center>
-				<img src = "imgs/car.png" class = "avatar"/>
+				<img src = "imgs/login.png" class = "avatar"/>
 			</center>
 		
 		</center>
