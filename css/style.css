@@ -1,0 +1,97 @@
+/* CSS Style Sheet */
+
+#main-wrapper
+{
+	width:500px;
+	margin: 0 auto;
+	background:grey;
+	padding:5px;
+	border-radius:10px;
+	border: 5px solid #34495e;	
+}
+
+.avatar
+{
+	text-align:center;
+	margin: 0 auto;
+	width:150px;
+	border-radius:50%;
+	display:block;
+	background-position: center;
+	margin-left:170px;
+}
+
+.myform
+{
+	width:450px;
+	margin:0 auto;
+}
+
+.inputvalues
+{
+	width: 430px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+#login_btn
+{
+	margin-top:10px;
+	background-color:#2ecc71;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#register_btn
+{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#1abc9c;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#signup_btn
+{
+	margin-top:10px;
+	background-color:#3498db;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#back_btn
+{
+	margin-top:10px;
+	background-color:#e74c3c;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#logout_btn
+{
+	margin-top:10px;
+	background-color:#c0392b;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
